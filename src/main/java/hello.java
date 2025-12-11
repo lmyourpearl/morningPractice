@@ -5,6 +5,7 @@ public class hello {
         System.out.println("세 번째 연습입니다!");
         System.out.println("내가 수정함!!!");
         System.out.println("팀원이 수정함!!!");
+        // 한글 테스트
     }
 
 }
